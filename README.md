@@ -1,0 +1,1 @@
+Example using for Swagger on .Net Core Web Api with some best practices.
